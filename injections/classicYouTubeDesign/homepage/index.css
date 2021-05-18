@@ -181,3 +181,15 @@ ytd-video-meta-block[rich-meta] #channel-name.ytd-video-meta-block, ytd-video-me
 	font-weight: 400;
 
 }
+
+
+/*
+*
+* ADDITIONS BY SAABISMI ON THE FOLLOWING LINES
+*
+*/
+
+/* Genres chip in the front page */
+ytd-feed-filter-chip-bar-renderer {
+    display: none;
+}

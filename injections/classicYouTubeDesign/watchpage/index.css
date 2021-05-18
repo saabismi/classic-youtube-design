@@ -669,3 +669,18 @@ html body ytd-app div#content.style-scope.ytd-app ytd-page-manager#page-manager.
 ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer:not([expansion="collapsed"]).ytd-watch-next-secondary-results-renderer, ytd-compact-radio-renderer.ytd-watch-next-secondary-results-renderer, ytd-compact-movie-renderer.ytd-watch-next-secondary-results-renderer, ytd-compact-playlist-renderer.ytd-watch-next-secondary-results-renderer, ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer, ytd-promoted-sparkles-web-renderer.ytd-watch-next-secondary-results-renderer {
 	margin-bottom: 15px;
 }
+
+/* ADDITIONS BY SAABISMI */
+
+/* Genres chip on a video page */
+yt-related-chip-cloud-renderer {
+    display:none;
+}
+
+tp-yt-paper-button#more {
+	margin-bottom: 10px;
+}
+
+yt-formatted-string.less-button {
+	margin-bottom: 10px;
+}
