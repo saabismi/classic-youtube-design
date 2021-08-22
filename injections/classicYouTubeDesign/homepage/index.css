@@ -193,3 +193,7 @@ ytd-video-meta-block[rich-meta] #channel-name.ytd-video-meta-block, ytd-video-me
 ytd-feed-filter-chip-bar-renderer {
     display: none;
 }
+
+#sections {
+	color:#fff;
+}
